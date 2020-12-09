@@ -185,8 +185,6 @@ Use the game function below to do the following:
 var comp = Math.floor(Math.random() * 3);
 
 function game(user, computer){
-  
-
   /*add your code here*/
   if(user == computer){
     return "it's a tie";
